@@ -1,0 +1,5 @@
+Projenin Adı: Algoritma Tasarımı
+
+Konusu: listelerdeki sayıların büyüklüğünü ve ardışıklığını analiz etmek için kullanılır. Örneğin, bir uygulamada belirli bir şartın ne kadar sıklıkla veya ardışık olarak gerçekleştiğini izlemek isteyebilirsiniz. Bu kod, bu tür durumları belirlemeye yardımcı olur.
+
+Çalışma Prensibi: Eğer listedeki elemanlardan ikiden büyük ardıardına gelen sayılar varsa sayac değerini sıfırlar, sayılar ikiden büyük ve sonrasında ikiden büyük bir saycı daha gelmiyorsa sayacı artırır.
